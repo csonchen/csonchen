@@ -21,7 +21,7 @@
 - 邮箱：cson_chensheng@163.com
 - 社区：[developers](https://developers.weixin.qq.com/community/personal/oCJUsw6CDczLYBukymF5bLqloT8k)
 
-![mine](/images/1.jpeg)
+![mine](https://github.com/csonchen/csonchen/raw/master/images/1.jpeg)
 
 <!--
 **csonchen/csonchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
