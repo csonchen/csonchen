@@ -1,12 +1,10 @@
 ### Hi, I am Sam Chen 👋
 
-![mine](./images/1.jpeg)
-
 # 👋 Hi, I am Sam Chen 
 
 ## 我
 
-我是一名Web前端开发者，目前正在公司的百货数字化小程序团队担任前端开发，喜欢用合适的工具来解放劳动生产力，少写代码是我的目标。
+我是一名Web前端开发者，目前正在公司的百货数字化小程序团队担任前端开发，喜欢用合适的工具来解放劳动生产力，少写代码是我的目标。
 
 ## 熟悉
 
@@ -15,8 +13,15 @@
 - 👯 微信小程序
 - 🤔 php
 - 💬 gulp
-- 📫 Stylus
+- 📫 stylus
 - 😄 .....
+
+## 社区
+
+- 邮箱：cson_chensheng@163.com
+- 社区：[developers](https://developers.weixin.qq.com/community/personal/oCJUsw6CDczLYBukymF5bLqloT8k)
+
+![mine](/images/1.jpeg)
 
 <!--
 **csonchen/csonchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
