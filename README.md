@@ -19,7 +19,7 @@
 ## 社区
 
 - 邮箱：cson_chensheng@163.com
-- 社区：[developers](https://developers.weixin.qq.com/community/personal/oCJUsw6CDczLYBukymF5bLqloT8k)
+- 社区：[developers](https://developers.weixin.qq.com/community/personal/oCJUsw6CDczLYBukymF5bLqloT8k), [juejin](https://juejin.cn/user/4001878053493768)
 
 <!--
 **csonchen/csonchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
